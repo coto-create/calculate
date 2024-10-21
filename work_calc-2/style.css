@@ -1,0 +1,11 @@
+button {
+  background-color: gray;
+  padding: 1rem;
+  color: white;
+}
+
+.window {
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid black;
+}
